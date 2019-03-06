@@ -4,12 +4,12 @@
 
 _some links explaining how tu use git/github and how to make it look awesome_
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev]() section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**
 
 ---
 
-<a name ="1" />
-## Sections
+<a name ="1">
+## Sections</a>
 
 - [Git general help](#gitgenhlp)
 - [GitHub general help](#githubgenhlp)
@@ -21,9 +21,9 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-<a name ="2" /><a name="gitgenhlp">
+<a name ="2"><a name="gitgenhlp">
 
-## Git general help</a>
+## Git general help</a></a>
 
 - [Git home page](https://git-scm.com/)
 - [Git official documentation](https://git-scm.com/doc)
@@ -46,9 +46,9 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-<a name ="3" /><a name="githubgenhlp">
+<a name ="3"><a name="githubgenhlp">
 
-## GitHub general help</a>
+## GitHub general help</a></a>
 
 - [GitHub help](https://help.github.com/en)
 - [GitHub guides](https://guides.github.com/)
@@ -60,9 +60,9 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-<a name ="4" /><a name="mdhlp">
+<a name ="4"><a name="mdhlp">
 
-## MarkDown (md) files help</a>
+## MarkDown (md) files help</a></a>
 
 - [Make a README.md](https://www.makeareadme.com/)
 - [Markdown guide - _I like it :)_](https://www.markdownguide.org/)
@@ -82,9 +82,9 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-<a name ="5" /><a name="stls">
+<a name ="5"><a name="stls">
 
-## Styles, stylish themes etc</a>
+## Styles, stylish themes etc</a></a>
 
 - [Stylus - _user styles manager for Chrome, FF, Opera, ..._](https://github.com/openstyles/stylus/)
 - [GitHub site with stylish themes - _eg. dark themes for github, stack exchange / stack overflow, YT, etc._](https://github.com/StylishThemes)
@@ -93,12 +93,12 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-<a name ="6" /><a name="returnto">
+<a name ="6"><a name="returnto">
 
-## Return to</a>
+## Return to</a></a>
 
 - [Top of this page](#pgtop)
 - [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section [next >>]()&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**
