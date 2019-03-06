@@ -1,7 +1,7 @@
 <html>
 <head>
 <style>
-article ul ul {
+ul ul {
 list-style-type: square;
 }
 </style>
