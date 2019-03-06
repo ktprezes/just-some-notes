@@ -2,9 +2,9 @@
 
 _a few notes to remember_
 
-I've created this repository for myself - because of my weak memory - just to remember some notes and tips&tricks.
-But... when you find it useful... help yourself :)
-Right now it's very modest but I hope it will grow :)
+I've created this repository for myself <br>- because of my weak memory - <br>just to remember some notes and tips&tricks.
+<br>But... when you find it useful... help yourself :)
+<br>Right now it's very modest but I hope it will grow :)
 
 ---
 
