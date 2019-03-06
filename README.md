@@ -20,15 +20,16 @@ I've created this repository for myself <br>- because of my weak memory - <br>ju
 
 - ### <a name="cpp">Cpp C++</a>
 
-  - [some useful links](./Cpp%20C%2B%2B/useful-links.md)
+  - [Some useful links](./Cpp%20C%2B%2B/useful-links.md)
 
 - ### <a name="git-github">Git GitHub</a>
 
-  - [some organisations GitHub sites](./Git%20GitHub/organisations.md)
+  - [Git & GitHub help files & style, stylesheets and layouts links](./Git%20GitHub/help-styles.md)
+  - [Some organisations GitHub sites](./Git%20GitHub/organisations.md)
 
 - ### <a name="linux">Linux</a>
 
-  - [pacman package manager](./linux/pacman.md)
+  - [Pacman package manager](./linux/pacman.md)
 
 ---
 
