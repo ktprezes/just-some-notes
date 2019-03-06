@@ -33,12 +33,15 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 
 ## <a name="nospaceleftmsg">02. When you want to install or upgrade some package(s)<br/>&emsp;&ensp;and receive the _'there is no space left on device'_ message.</a>
 
-> Most probably you receive this message because of lack of space in _/tmp_ folder;<br>by default it's capacity equals half of your RAM.
-> IMHO the easiest way to deal with it is to use _yaourt_ instead of _pacman_<br>With _yaourt_ you can set different _/tmp_ folder.
+> Most probably you receive this message because of lack of space in _/tmp_ folder;<br>
+> by default it's capacity equals half of your RAM.<br>
+> IMHO the easiest way to deal with it is to use _yaourt_ instead of _pacman_.<br>
+> With _yaourt_ you can set different _/tmp_ folder.
 
 > - first of all you have to install it, e.g.: `pacman -S yaourt`
 > - when you want to install / upgrade some package(s), use:<br/> `yaourt -S package-name --tmp /your-temp-folder`
-> - of course you should use _/your-temp-folder_ located <br>on disk / device with enough amount of free space left :)
+> - of course you should use _/your-temp-folder_ located on disk / device<br>
+>   with enough amount of free space left :)
 
 ---
 
