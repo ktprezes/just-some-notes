@@ -1,10 +1,10 @@
-# <a name="pgtop">Git & GitHub help and beauty sites</a>
+# <a name="pgtop">Git & GitHub help and beauty sites#0</a>
 
 _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-## Sections.
+## Sections#1
 
 - [Git general help](#gitgenhlp)
 - [GitHub general help](#githubgenhlp)
@@ -16,7 +16,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-## <a name="gitgenhlp">Git general help.</a>
+## <a name="gitgenhlp">Git general help#2</a>
 
 - [Git home page](https://git-scm.com/)
 - [Git official documentation](https://git-scm.com/doc)
@@ -39,7 +39,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-## <a name="githubgenhlp">GitHub general help.</a>
+## <a name="githubgenhlp">GitHub general help#3</a>
 
 - [GitHub help](https://help.github.com/en)
 - [GitHub guides](https://guides.github.com/)
@@ -51,7 +51,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-## <a name="mdhlp">MarkDown (md) files help.</a>
+## <a name="mdhlp">MarkDown (md) files help#4</a>
 
 - [Make a README.md](https://www.makeareadme.com/)
 - [Markdown guide - _I like it :)_](https://www.markdownguide.org/)
@@ -65,12 +65,13 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [MS markdown basics](https://docs.microsoft.com/pl-pl/contribute/how-to-write-use-markdown)
 - [MS markdown reference](https://docs.microsoft.com/pl-pl/contribute/markdown-reference)
+- [Markdown style guide](http://www.cirosantilli.com/markdown-style-guide/)
 
 [**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
-## <a name="stls">Styles, stylish themes etc.</a>
+## <a name="stls">Styles, stylish themes etc#5</a>
 
 - [Stylus - _user styles manager for Chrome, FF, Opera, ..._](https://github.com/openstyles/stylus/)
 - [GitHub site with stylish themes - _eg. dark themes for github, stack exchange / stack overflow, YT, etc._](https://github.com/StylishThemes)
@@ -79,7 +80,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-## <a name="returnto">Return to:</a>
+## <a name="returnto">Return to#6</a>
 
 - [Top of this page](#pgtop)
 - [Repository home page](../README.md#pgtop)
