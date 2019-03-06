@@ -1,10 +1,10 @@
-# <a name="pgtop">Git & GitHub help and beauty sites#0</a>
+# <a name="pgtop">Git & GitHub help and beauty sites</a> #0
 
 _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-## Sections#1
+## Sections #1
 
 - [Git general help](#gitgenhlp)
 - [GitHub general help](#githubgenhlp)
