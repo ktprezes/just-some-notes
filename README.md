@@ -16,14 +16,14 @@ Right now it's very modest but I hope it will grow :)
 
 ## 2. Sections details
 
-### Cpp C++
+- ### Cpp C++
 
-- [some useful links](./Cpp%20C%2B%2B/useful-links.md)
+  - [some useful links](./Cpp%20C%2B%2B/useful-links.md)
 
-### Git GitHub
+- ### Git GitHub
 
-- organisations with open source projects
+  - organisations with open source projects
 
-### Linux
+- ### Linux
 
-- [pacman package manager](./linux/pacman.md)
+  - [pacman package manager](./linux/pacman.md)
