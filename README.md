@@ -1,3 +1,4 @@
+<html>
 <head>
 <style>
 article ul ul {
@@ -5,6 +6,7 @@ list-style-type: square;
 }
 </style>
 </head>
+<body>
 # just-some-notes
 
 _a few notes to remember_
@@ -36,3 +38,5 @@ Right now it's very modest but I hope it will grow :)
 - ### <a name="linux">Linux</a>
 
   - [pacman package manager](./linux/pacman.md)
+    </body>
+    </html>
