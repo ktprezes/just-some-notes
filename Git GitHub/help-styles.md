@@ -4,7 +4,7 @@
 
 _some links explaining how tu use git/github and how to make it look awesome_
 
-**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
@@ -18,7 +18,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Some style and beauty links](#stls)
 - [Return to...](#returnto)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
@@ -43,7 +43,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [6 Git hosting services to host open source repositories](https://opensource.com/article/18/8/github-alternatives)
 - [List of some hosted version control services (not only Git based)](https://www.slant.co/topics/153/~best-hosted-version-control-services)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[\<\< prev](#1) section [next \>\>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[\<\< prev](#1) section [next \>\>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
@@ -57,7 +57,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Git & GitHub learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
 - [GitHub markdown editor - writing and formatiing on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
@@ -79,7 +79,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [MS markdown reference](https://docs.microsoft.com/pl-pl/contribute/markdown-reference)
 - [Markdown style guide](http://www.cirosantilli.com/markdown-style-guide/)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
@@ -90,7 +90,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Stylus - _user styles manager for Chrome, FF, Opera, ..._](https://github.com/openstyles/stylus/)
 - [GitHub site with stylish themes - _eg. dark themes for github, stack exchange / stack overflow, YT, etc._](https://github.com/StylishThemes)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#4) section [next >>](#6)&emsp;&emsp;[Bottom of this page](#returnto)_**
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#4) section [next >>](#6)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
@@ -102,6 +102,6 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
