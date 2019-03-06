@@ -11,7 +11,7 @@ Right now it's very modest but I hope it will grow :)
 ## 1. Sections
 
 - [Cpp C++](#cpp-c++)
-- Git GitHub(#git-github)
+- [Git GitHub](#git-github)
 - [Linux](#linux)
 
 ## 2. Sections details
