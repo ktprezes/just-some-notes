@@ -16,7 +16,7 @@ I've created this repository for myself - because of my weak memory
 - [Linux](#linux)
 - [Return to...](#returnto)
 
-[**Top of this page**](#pgtop)&mbsp;&mbsp;[**Bottom of this page**](#returnto)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -24,7 +24,7 @@ I've created this repository for myself - because of my weak memory
 
 - [Some useful links](./Cpp%20C%2B%2B/useful-links.md#pgtop)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -33,7 +33,7 @@ I've created this repository for myself - because of my weak memory
 - [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/help-styles.md#pgtop)
 - [Some organizations GitHub sites](./Git%20GitHub/organizations.md#pgtop)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -41,7 +41,7 @@ I've created this repository for myself - because of my weak memory
 
 - [Pacman package manager](./linux/pacman.md#pgtop)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 

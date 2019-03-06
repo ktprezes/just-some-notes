@@ -12,7 +12,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Some style and beauty links](#stls)
 - [Return to...](#returnto)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -35,7 +35,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [6 Git hosting services to host open source repositories](https://opensource.com/article/18/8/github-alternatives)
 - [List of some hosted version control services (not only Git based)](https://www.slant.co/topics/153/~best-hosted-version-control-services)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -47,7 +47,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Git & GitHub learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
 - [GitHub markdown editor - writing and formatiing on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -66,7 +66,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [MS markdown basics](https://docs.microsoft.com/pl-pl/contribute/how-to-write-use-markdown)
 - [MS markdown reference](https://docs.microsoft.com/pl-pl/contribute/markdown-reference)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -75,7 +75,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Stylus - _user styles manager for Chrome, FF, Opera, ..._](https://github.com/openstyles/stylus/)
 - [GitHub site with stylish themes - _eg. dark themes for github, stack exchange / stack overflow, YT, etc._](https://github.com/StylishThemes)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 

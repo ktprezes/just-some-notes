@@ -10,7 +10,7 @@ _so I've made a short list of imho interesting ones..._
 - [Some organizations on GitHub in alphabetical order](#someorgalphord)
 - [Return to...](#returnto)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -25,7 +25,7 @@ _so I've made a short list of imho interesting ones..._
 - [SAP](https://github.com/SAP)
 - [Twitter: _algebird, anomaly detection with R, emoji, twitter.github.io, twitter-text, etc._](https://github.com/twitter)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 

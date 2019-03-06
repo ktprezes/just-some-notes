@@ -12,7 +12,7 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 - [Some other pacman related links](#otherlinks)
 - [Return to...](#returnto)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -31,7 +31,7 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 - `$(..)` transforms this list of common rows <br>from 'new-line-separated' to 'space-separated' form
 - Finally `pacman -S --needed $(..)` takes this space-separated list of packages <br>from [core] repository installed in your system and updates them :)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -47,7 +47,7 @@ With _yaourt_ you can set different _/tmp_ folder.
 - of course you should use _/your-temp-folder_ located on disk / device<br>
   with enough amount of free space left :)
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
@@ -62,7 +62,7 @@ With _yaourt_ you can set different _/tmp_ folder.
 - https://wiki.manjaro.org/index.php?title=Pacman_Tips
 - https://devhints.io/pacman
 
-[Top of this page](#pgtop)
+[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 ---
 
