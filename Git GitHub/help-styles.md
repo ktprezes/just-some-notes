@@ -14,7 +14,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Some style and beauty links](#stls)
 - [Return to...](#returnto)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev][0] section [next >>][2]&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**
 
 ---
 
