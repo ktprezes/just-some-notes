@@ -20,16 +20,16 @@ I've created this repository for myself - because of my weak memory
 
 ## <a name="cpp">Cpp C++</a>
 
-- [Some useful links](./Cpp%20C%2B%2B/useful-links.md)
+- [Some useful links](./Cpp%20C%2B%2B/useful-links.md#pgtop)
 
 ## <a name="git-github">Git GitHub</a>
 
-- [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/help-styles.md)
-- [Some organizations GitHub sites](./Git%20GitHub/organizations.md)
+- [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/help-styles.md#pgtop)
+- [Some organizations GitHub sites](./Git%20GitHub/organizations.md#pgtop)
 
 ## <a name="linux">Linux</a>
 
-- [Pacman package manager](./linux/pacman.md)
+- [Pacman package manager](./linux/pacman.md#pgtop)
 
 ---
 

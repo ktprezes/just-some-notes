@@ -21,5 +21,5 @@ _so I've made a short list of imho interesting ones..._
 ## Return to:
 
 - [Top of this page](#pgtop)
-- [Repository home page](../README.md)
+- [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)

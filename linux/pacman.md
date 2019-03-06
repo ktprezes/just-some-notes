@@ -65,5 +65,5 @@ With _yaourt_ you can set different _/tmp_ folder.
 ## <a name="returnto">Return to:</a>
 
 - [Top of this page](#pgtop)
-- [Repository home page](../README.md)
+- [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)

@@ -41,5 +41,5 @@
 ## Return to:
 
 - [Top of this page](#pgtop)
-- [Repository home page](../README.md)
+- [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)
