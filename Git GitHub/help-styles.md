@@ -1,12 +1,15 @@
-[0]: # <a name="pgtop">Git & GitHub help and beauty sites</a>
+<a name ="0"> <a name="pgtop">
+
+# Git & GitHub help and beauty sites</a></a>
 
 _some links explaining how tu use git/github and how to make it look awesome_
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev][] section [next >>][1]&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev]() section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**
 
 ---
 
-[1]: ## Sections
+<a name ="1" />
+## Sections
 
 - [Git general help](#gitgenhlp)
 - [GitHub general help](#githubgenhlp)
@@ -18,7 +21,9 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-[2]: ## <a name="gitgenhlp">Git general help</a>
+<a name ="2" /><a name="gitgenhlp">
+
+## Git general help</a>
 
 - [Git home page](https://git-scm.com/)
 - [Git official documentation](https://git-scm.com/doc)
@@ -37,11 +42,13 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [6 Git hosting services to host open source repositories](https://opensource.com/article/18/8/github-alternatives)
 - [List of some hosted version control services (not only Git based)](https://www.slant.co/topics/153/~best-hosted-version-control-services)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[\<\< prev][1] section [next \>\>][3]&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;[\<\< prev](#1) section [next \>\>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**
 
 ---
 
-[3]: ## <a name="githubgenhlp">GitHub general help</a>
+<a name ="3" /><a name="githubgenhlp">
+
+## GitHub general help</a>
 
 - [GitHub help](https://help.github.com/en)
 - [GitHub guides](https://guides.github.com/)
@@ -49,11 +56,13 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Git & GitHub learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
 - [GitHub markdown editor - writing and formatiing on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev][2] section [next >>][4]&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**
 
 ---
 
-[4]: ## <a name="mdhlp">MarkDown (md) files help</a>
+<a name ="4" /><a name="mdhlp">
+
+## MarkDown (md) files help</a>
 
 - [Make a README.md](https://www.makeareadme.com/)
 - [Markdown guide - _I like it :)_](https://www.markdownguide.org/)
@@ -69,23 +78,27 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [MS markdown reference](https://docs.microsoft.com/pl-pl/contribute/markdown-reference)
 - [Markdown style guide](http://www.cirosantilli.com/markdown-style-guide/)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev][3] section [next >>][5]&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**
 
 ---
 
-[5]: ## <a name="stls">Styles, stylish themes etc</a>
+<a name ="5" /><a name="stls">
+
+## Styles, stylish themes etc</a>
 
 - [Stylus - _user styles manager for Chrome, FF, Opera, ..._](https://github.com/openstyles/stylus/)
 - [GitHub site with stylish themes - _eg. dark themes for github, stack exchange / stack overflow, YT, etc._](https://github.com/StylishThemes)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev][4] section [next >>][6]&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#4) section [next >>](#6)&emsp;&emsp;[Bottom of this page](#returnto)_**
 
 ---
 
-[6]: ## <a name="returnto">Return to</a>
+<a name ="6" /><a name="returnto">
+
+## Return to</a>
 
 - [Top of this page](#pgtop)
 - [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev][5] section [next >>][]&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section [next >>]()&emsp;&emsp;[Bottom of this page](#returnto)_**
