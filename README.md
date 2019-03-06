@@ -16,7 +16,7 @@ I've created this repository for myself - because of my weak memory
 - [Linux](#linux)
 - [Return to...](#returnto)
 
-<center>[**Top of this page**](#pgtop) [**Bottom of this page**](#returnto)</center>
+[**Top of this page**](#pgtop) [**Bottom of this page**](#returnto)
 
 ---
 
