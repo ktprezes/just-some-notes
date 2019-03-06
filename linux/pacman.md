@@ -1,8 +1,7 @@
 # Some pacman notes
 
-_The best konwn **pacman** is legacy tv / console game,
-but this memo is about [default Arch Linux Package Manager](https://wiki.archlinux.org/index.php/pacman)
-_
+_The best known **pacman** is legacy tv / console game,_
+_but this memo is rather about [default Arch Linux Package Manager](https://wiki.archlinux.org/index.php/pacman)_
 
 ---
 
