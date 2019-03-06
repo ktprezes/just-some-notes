@@ -1,4 +1,4 @@
-# Some useful links about C++
+# <a name="pgtop">Some useful links about C++</a>
 
 ---
 
@@ -40,5 +40,6 @@
 
 ## Return to:
 
+- [Top of this page](#pgtop)
 - [Repository home page](../README.md)
 - [My GitHub account home page](https://github.com/ktprezes)

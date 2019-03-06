@@ -1,4 +1,4 @@
-# Just-Some-Notes
+# <a name="pgtop">Just-Some-Notes</a>
 
 _a few notes to remember_
 
@@ -35,4 +35,5 @@ I've created this repository for myself - because of my weak memory
 
 ## <a name="returnto">Return to:</a>
 
+- [Top of this page](#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)

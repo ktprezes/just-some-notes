@@ -1,4 +1,4 @@
-# Some pacman notes
+# <a name="pgtop">Some pacman notes</a>
 
 _The best known **pacman** is legacy tv / console game,_<br>
 _but this memo is rather about [default Arch Linux Package Manager](https://wiki.archlinux.org/index.php/pacman)_
@@ -64,5 +64,6 @@ With _yaourt_ you can set different _/tmp_ folder.
 
 ## <a name="returnto">Return to:</a>
 
+- [Top of this page](#pgtop)
 - [Repository home page](../README.md)
 - [My GitHub account home page](https://github.com/ktprezes)

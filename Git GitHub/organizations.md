@@ -1,4 +1,4 @@
-# Some organization's GitHub sites
+# <a name="pgtop">Some organization's GitHub sites</a>
 
 _As far a I know, you cannot follow organization's sites - only people's sites,_<br>
 _so I've made a short list of imho interesting ones..._
@@ -20,5 +20,6 @@ _so I've made a short list of imho interesting ones..._
 
 ## Return to:
 
+- [Top of this page](#pgtop)
 - [Repository home page](../README.md)
 - [My GitHub account home page](https://github.com/ktprezes)
