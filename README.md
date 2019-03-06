@@ -18,7 +18,7 @@ Right now it's very modest but I hope it will grow :)
 
 ### Cpp C++
 
-- [some useful links ](./Cpp%20C%2B%2B/useful-links.md)
+- [some useful links](./Cpp%20C%2B%2B/useful-links.md)
 
 ### Git GitHub
 
