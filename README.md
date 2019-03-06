@@ -29,3 +29,9 @@ I've created this repository for myself <br>- because of my weak memory - <br>ju
 - ### <a name="linux">Linux</a>
 
   - [pacman package manager](./linux/pacman.md)
+
+---
+
+## Return to:
+
+- [My GitHub account home page](https://github.com/ktprezes)
