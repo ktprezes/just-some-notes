@@ -25,7 +25,7 @@ I've created this repository for myself - because of my weak memory - just to re
 ### <a name="git-github">- Git GitHub</a>
 
 - [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/help-styles.md)
-- [Some organisations GitHub sites](./Git%20GitHub/organisations.md)
+- [Some organizations GitHub sites](./Git%20GitHub/organizations.md)
 
 ### <a name="linux">- Linux</a>
 

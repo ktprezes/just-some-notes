@@ -7,14 +7,14 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 
 ## Sections
 
-> - [01. Update packages from specific repository](#specificrepoupdate)
-> - [02. 'No space left on device' message](#nospaceleftmsg)
-> - [999. Some other pacman related links](#otherlinks)
-> - [Return to...](#returnto)
+- [Update packages from specific repository](#specificrepoupdate)
+- ['No space left on device' message](#nospaceleftmsg)
+- [Some other pacman related links](#otherlinks)
+- [Return to...](#returnto)
 
 ---
 
-## <a name="specificrepoupdate"></a>01. When you want to update packages installed in your system,<br/>&emsp;&ensp;but only from specific repository (e.g. core).</a>
+## <a name="specificrepoupdate"></a>When you want to update packages installed in your system,<br/>&emsp;&ensp;but only from specific repository (e.g. core).</a>
 
 ```bash
     pacman -S --needed $(comm -12 <(pacman -Qq | sort) <(pacman -Slq core | sort))
@@ -31,7 +31,7 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 
 ---
 
-## <a name="nospaceleftmsg">02. When you want to install or upgrade some package(s)<br/>&emsp;&ensp;and receive the _'there is no space left on device'_ message.</a>
+## <a name="nospaceleftmsg">When you want to install or upgrade some package(s)<br/>&emsp;&ensp;and receive the _'there is no space left on device'_ message.</a>
 
 > Most probably you receive this message because of lack of space in _/tmp_ folder;<br>
 > by default it's capacity equals half of your RAM.<br>
@@ -49,7 +49,7 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 
 ---
 
-## <a name="otherlinks"> 999. Links to many more pacman notes / tips.</a>
+## <a name="otherlinks">Links to many more pacman notes / tips.</a>
 
 > - https://wiki.archlinux.org/index.php/Pacman
 > - https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks
@@ -64,5 +64,5 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 
 ## <a name="returnto">Return to:</a>
 
-> - [Repository home page](../README.md)
-> - [My GitHub account home page](https://github.com/ktprezes)
+- [Repository home page](../README.md)
+- [My GitHub account home page](https://github.com/ktprezes)
