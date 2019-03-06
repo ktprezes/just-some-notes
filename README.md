@@ -1,7 +1,10 @@
+<head>
+<style>
 article ul ul {
-list-style-type: square !important;
+list-style-type: square;
 }
-
+</style>
+</head>
 # just-some-notes
 
 _a few notes to remember_
