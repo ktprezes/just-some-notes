@@ -1,4 +1,4 @@
-[0]:# <a name="pgtop">Git & GitHub help and beauty sites</a>
+[#0]# <a name="pgtop">Git & GitHub help and beauty sites</a>
 
 _some links explaining how tu use git/github and how to make it look awesome_
 
@@ -6,7 +6,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-[1]:## Sections
+[#1]## Sections
 
 - [Git general help](#gitgenhlp)
 - [GitHub general help](#githubgenhlp)
@@ -18,7 +18,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-[2]:## <a name="gitgenhlp">Git general help</a>
+[#2]## <a name="gitgenhlp">Git general help</a>
 
 - [Git home page](https://git-scm.com/)
 - [Git official documentation](https://git-scm.com/doc)
@@ -41,7 +41,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-[3]:## <a name="githubgenhlp">GitHub general help</a>
+[#3]## <a name="githubgenhlp">GitHub general help</a>
 
 - [GitHub help](https://help.github.com/en)
 - [GitHub guides](https://guides.github.com/)
@@ -53,7 +53,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-[4]:## <a name="mdhlp">MarkDown (md) files help</a>
+[#4]## <a name="mdhlp">MarkDown (md) files help</a>
 
 - [Make a README.md](https://www.makeareadme.com/)
 - [Markdown guide - _I like it :)_](https://www.markdownguide.org/)
@@ -73,7 +73,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-[5]:## <a name="stls">Styles, stylish themes etc</a>
+[#5]## <a name="stls">Styles, stylish themes etc</a>
 
 - [Stylus - _user styles manager for Chrome, FF, Opera, ..._](https://github.com/openstyles/stylus/)
 - [GitHub site with stylish themes - _eg. dark themes for github, stack exchange / stack overflow, YT, etc._](https://github.com/StylishThemes)
@@ -82,7 +82,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
-[6]:## <a name="returnto">Return to</a>
+[#6]## <a name="returnto">Return to</a>
 
 - [Top of this page](#pgtop)
 - [Repository home page](../README.md#pgtop)
