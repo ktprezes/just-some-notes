@@ -2,12 +2,12 @@
 
 # "Just Some Notes" repository</a></a>
 
-    _a few notes to remember_
-
-    I've created this repository for myself - because of my weak memory
-    <br>- just to remember some notes and tips&tricks.
-    <br>But... when you find it useful... help yourself :)
-    <br>Right now it's very modest but I hope it will grow :)
+>     _a few notes to remember_
+>
+>     I've created this repository for myself - because of my weak memory
+>     - just to remember some notes and tips&tricks.
+>     But... when you find it useful... help yourself :)
+>     Right now it's very modest but I hope it will grow :)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
