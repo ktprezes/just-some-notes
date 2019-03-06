@@ -31,7 +31,6 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [Free and paid Git hosting comparison](http://comparegithosting.com/)
 - [12 Git hosting services comparison by git-tower](https://www.git-tower.com/blog/git-hosting-services-compared/)
 - [List of some hosted version control services (not only Git based)](https://www.slant.co/topics/153/~best-hosted-version-control-services)
-- []()
 
 ---
 
