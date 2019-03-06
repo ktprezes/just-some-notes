@@ -4,15 +4,15 @@
 
 > _a few notes to remember_
 >
-> _I've created this repository for myself <br> - because of my weak memory - <br> just to remember some notes and tips&tricks.<br> But... when you find it useful... help yourself :) <br> Right now it's very modest but I hope it will grow :)_
+> _I've created this repository for myself <br> - because of my weak memory - <br> just to remember some notes and tips&tricks.<br> But... when you find it useful... :smiley: help yourself :gift: <br> Right now it's very modest :confused: but I hope it will grow :yum:_
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name="1">
+<a name="1"><a name="sections">
 
-## Sections</a>
+## Sections</a></a>
 
 - [Cpp C++](#cpp)
 - [Git GitHub](#git-github)

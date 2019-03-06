@@ -2,15 +2,15 @@
 
 # Git & GitHub help and beauty sites</a></a>
 
-_some links explaining how tu use git/github and how to make it look awesome_
+> _some links explaining how tu use git/github and how to make it look awesome_
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name ="1">
+<a name="1"><a name="sections">
 
-## Sections</a>
+## Sections</a></a>
 
 - [Git general help](#gitgenhlp)
 - [GitHub general help](#githubgenhlp)
@@ -78,6 +78,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [MS markdown basics](https://docs.microsoft.com/pl-pl/contribute/how-to-write-use-markdown)
 - [MS markdown reference](https://docs.microsoft.com/pl-pl/contribute/markdown-reference)
 - [Markdown style guide](http://www.cirosantilli.com/markdown-style-guide/)
+- [GitHub emoji icons list](https://gist.github.com/rxaviers/7360908)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 

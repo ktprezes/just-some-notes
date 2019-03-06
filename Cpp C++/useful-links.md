@@ -1,20 +1,28 @@
-# <a name="pgtop">Some useful links about C++</a>
+<a name="0"><a name="pgtop">
 
-_A few links concerning C++ / MS Visual C++ I've found useful_
+# Some useful links about C++</a></a>
+
+> _A few links concerning C++ / MS Visual C++ I've found useful_
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## Sections
+<a name="1"><a name="sections">
+
+## Sections</a></a>
 
 - [C++14/17 new features](#cpp1417new)
 - [MS Visual C++ Studio 2017](#msvc2017)
 - [Return to...](#returnto)
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## <a name="#cpp1417new">Links about C++ 14/17 new features</a>
+<a name="2"><a name="#cpp1417new">
+
+## Links about C++ 14/17 new features</a></a>
 
 - https://en.cppreference.com
 - http://www.cplusplus.com/reference/
@@ -27,11 +35,13 @@ _A few links concerning C++ / MS Visual C++ I've found useful_
 - https://github.com/jfbastien/what-is-cpp17
 - https://www.codingame.com/playgrounds/4356/standard-library-utilities-in-c
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## <a name="msvc2017">Links about MS Visual Studio 2017 C++ version</a>
+<a name="3"><a name="msvc2017">
+
+## Links about MS Visual Studio 2017 C++ version</a></a>
 
 - [Visual C++ in MS Visual Studio 2017](https://docs.microsoft.com/en-us/cpp/visual-cpp-in-visual-studio?view=vs-2017), [PDF 148 pp.](https://opdhsblobprod01.blob.core.windows.net/contents/8ee155eb21834b65814ae67f4da97bf3/3ca2d16817edfce024db32f9d8f39638?sv=2015-04-05&sr=b&sig=P1XrNIf8p3%2Bvw4286zY2QnIIVXuMsEWKu6UBkfD3uzA%3D&st=2019-03-06T14%3A05%3A50Z&se=2019-03-07T14%3A15%3A50Z&sp=r)
 - [MSVS 2017 - C++ Language Reference](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=vs-2017), [PDF 969 pp.](https://opdhsblobprod01.blob.core.windows.net/contents/8ee155eb21834b65814ae67f4da97bf3/58cd1ea644d0fd8bc7daecf356c8b128?sv=2015-04-05&sr=b&sig=NFSX7cuFUlvxigTkz7LBdwa2wZCXwhKgf1XGM%2BRRToc%3D&st=2019-03-06T14%3A10%3A50Z&se=2019-03-07T14%3A20%3A50Z&sp=r)
@@ -50,12 +60,18 @@ _A few links concerning C++ / MS Visual C++ I've found useful_
 - [MSVS 2017 - Porting and upgrading C++ code](https://docs.microsoft.com/en-us/cpp/porting/visual-cpp-porting-and-upgrading-guide?view=vs-2017), [PDF 184 pp.](https://opdhsblobprod01.blob.core.windows.net/contents/8ee155eb21834b65814ae67f4da97bf3/510618772e51413e9851faa33592a35b?sv=2015-04-05&sr=b&sig=wLsGmKiEhy%2B%2BsJLX3TG4vduYjVZml8iJLWnT0lH6i28%3D&st=2019-03-06T14%3A32%3A54Z&se=2019-03-07T14%3A42%3A54Z&sp=r)
 - [MSVS 2017 - C++ Help and Community](https://docs.microsoft.com/en-us/cpp/visual-cpp-help-and-community?view=vs-2017), [see PDF about 'Visual C++ in Visual Studio' 148 pp.](https://opdhsblobprod01.blob.core.windows.net/contents/8ee155eb21834b65814ae67f4da97bf3/3ca2d16817edfce024db32f9d8f39638?sv=2015-04-05&sr=b&sig=YYxM3xySbzRaPuSS3j8v4iK4slJbKR5QQm2dU4BG2bc%3D&st=2019-03-06T14%3A28%3A53Z&se=2019-03-07T14%3A38%3A53Z&sp=r)
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## <a name="returnto">Return to:</a>
+<a name="4"><a name="returnto">
+
+## Return to:</a></a>
 
 - [Top of this page](#pgtop)
 - [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
+---

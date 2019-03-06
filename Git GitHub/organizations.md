@@ -1,20 +1,27 @@
-# <a name="pgtop">Some organization's GitHub sites</a>
+<a name="0"><a name="pgtop">
 
-_As far a I know, you cannot follow organization's sites - only people's sites,_<br>
-_so I've made a short list of imho interesting ones..._
+# Some organization's GitHub sites</a></a>
+
+> _As far a I know, you cannot follow organization's sites - only people's sites, <br> so I've made a short list of imho interesting ones..._
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## Sections
+<a name="1"><a name="sections">
+
+## Sections</a></a>
 
 - [Some organizations on GitHub in alphabetical order](#someorgalphord)
 - [Return to...](#returnto)
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## <a name="someorgalphord">Some organizations on GitHub in alphabetical order</a>
+<a name="2"><a name="someorgalphord">
+
+## Some organizations on GitHub in alphabetical order</a></a>
 
 - [Adobe: _adobe.github.com, brackets, developer.adobe.com repo, helix, etc._](https://github.com/adobe/)
 - [Facebook (FB): _flux, graphql, react, etc._](https://github.com/facebook)
@@ -25,12 +32,18 @@ _so I've made a short list of imho interesting ones..._
 - [SAP](https://github.com/SAP)
 - [Twitter: _algebird, anomaly detection with R, emoji, twitter.github.io, twitter-text, etc._](https://github.com/twitter)
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## <a name="returnto">Return to:</a>
+<a name="3"><a name="returnto">
+
+## Return to:</a></a>
 
 - [Top of this page](#pgtop)
 - [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
+---

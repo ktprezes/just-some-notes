@@ -1,22 +1,29 @@
-# <a name="pgtop">Some pacman notes</a>
+<a name="0"><a name="pgtop">
 
-_The best known **pacman** is legacy tv / console game,_<br>
-_but this memo is rather about [default Arch Linux Package Manager](https://wiki.archlinux.org/index.php/pacman)_
+# Some pacman notes</a></a>
+
+> _The best known **pacman** is legacy tv / console game, <br> but this memo is rather about [default Arch Linux Package Manager](https://wiki.archlinux.org/index.php/pacman)_
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## Sections
+<a name="1"><a name="sections">
+
+## Sections</a></a>
 
 - [Update packages from specific repository](#specificrepoupdate)
 - ['No space left on device' message](#nospaceleftmsg)
 - [Some other pacman related links](#otherlinks)
 - [Return to...](#returnto)
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## <a name="specificrepoupdate"></a>When you want to update packages installed in your system,<br>but only from specific repository (e.g. core).</a>
+<a name="2"><a name="specificrepoupdate">
+
+## When you want to update packages installed in your system,<br>but only from specific repository (e.g. core)</a></a>
 
 ```bash
     pacman -S --needed $(comm -12 <(pacman -Qq | sort) <(pacman -Slq core | sort))
@@ -31,11 +38,13 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 - `$(..)` transforms this list of common rows <br>from 'new-line-separated' to 'space-separated' form
 - Finally `pacman -S --needed $(..)` takes this space-separated list of packages <br>from [core] repository installed in your system and updates them :)
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## <a name="nospaceleftmsg">When you want to install or upgrade some package(s)<br>and receive the _'there is no space left on device'_ message.</a>
+<a name="3"><a name="nospaceleftmsg">
+
+## When you want to install or upgrade some package(s)<br>and receive the _'there is no space left on device'_ message</a></a>
 
 Most probably you receive this message because of lack of space in _/tmp_ folder;<br>
 by default it's capacity equals half of your RAM.<br>
@@ -47,11 +56,13 @@ With _yaourt_ you can set different _/tmp_ folder.
 - of course you should use _/your-temp-folder_ located on disk / device<br>
   with enough amount of free space left :)
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## <a name="otherlinks">Links to many more pacman notes / tips.</a>
+<a name="4"><a name="otherlinks">
+
+## Links to many more pacman notes / tips</a></a>
 
 - https://wiki.archlinux.org/index.php/Pacman
 - https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks
@@ -62,12 +73,18 @@ With _yaourt_ you can set different _/tmp_ folder.
 - https://wiki.manjaro.org/index.php?title=Pacman_Tips
 - https://devhints.io/pacman
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-## <a name="returnto">Return to:</a>
+<a name="5"><a name="returnto">
+
+## Return to:</a></a>
 
 - [Top of this page](#pgtop)
 - [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#4) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
+---
