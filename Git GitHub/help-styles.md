@@ -8,7 +8,10 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
+---
+
 <a name ="1">
+
 ## Sections</a>
 
 - [Git general help](#gitgenhlp)
@@ -102,3 +105,5 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [My GitHub account home page](https://github.com/ktprezes)
 
 **_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**
+
+---
