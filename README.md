@@ -1,4 +1,6 @@
-# <a name="pgtop">Just-Some-Notes</a>
+<a name="0"><a name="pgtop">
+
+# JUST SOME NOTES REPOSITORY</a></a>
 
 _a few notes to remember_
 
@@ -7,9 +9,13 @@ I've created this repository for myself - because of my weak memory
 <br>But... when you find it useful... help yourself :)
 <br>Right now it's very modest but I hope it will grow :)
 
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
 ---
 
-## Sections
+<a name="1">
+
+## Sections</a>
 
 - [Cpp C++](#cpp)
 - [Git GitHub](#git-github)
@@ -18,34 +24,54 @@ I've created this repository for myself - because of my weak memory
 
 [**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
 ---
 
-## <a name="cpp">Cpp C++</a>
+<a name="2"><a name="cpp">
+
+## Cpp C++</a></a>
 
 - [Some useful links](./Cpp%20C%2B%2B/useful-links.md#pgtop)
 
 [**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
 ---
 
-## <a name="git-github">Git GitHub</a>
+<a name="3"><a name="git-github">
+
+## Git GitHub</a></a>
 
 - [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/help-styles.md#pgtop)
 - [Some organizations GitHub sites](./Git%20GitHub/organizations.md#pgtop)
 
 [**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
 ---
 
-## <a name="linux">Linux</a>
+<a name="4"><a name="linux">
+
+## Linux</a></a>
 
 - [Pacman package manager](./linux/pacman.md#pgtop)
 
 [**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
 ---
 
-## <a name="returnto">Return to:</a>
+<a name="5"><a name="returnto">
+
+## Return to:</a></a>
 
 - [Top of this page](#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#4) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
+---
