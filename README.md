@@ -10,29 +10,29 @@ I've created this repository for myself <br>- because of my weak memory - <br>ju
 
 ## 1. Sections
 
-- [Cpp C++](#cpp)
-- [Git GitHub](#git-github)
-- [Linux](#linux)
+    - [Cpp C++](#cpp)
+    - [Git GitHub](#git-github)
+    - [Linux](#linux)
 
 ---
 
 ## 2. Sections details
 
-- ### <a name="cpp">Cpp C++</a>
+    - ### <a name="cpp">Cpp C++</a>
 
-  - [Some useful links](./Cpp%20C%2B%2B/useful-links.md)
+      - [Some useful links](./Cpp%20C%2B%2B/useful-links.md)
 
-- ### <a name="git-github">Git GitHub</a>
+    - ### <a name="git-github">Git GitHub</a>
 
-  - [Git & GitHub help files & style, stylesheets and layouts links](./Git%20GitHub/help-styles.md)
-  - [Some organisations GitHub sites](./Git%20GitHub/organisations.md)
+      - [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/help-styles.md)
+      - [Some organisations GitHub sites](./Git%20GitHub/organisations.md)
 
-- ### <a name="linux">Linux</a>
+    - ### <a name="linux">Linux</a>
 
-  - [Pacman package manager](./linux/pacman.md)
+      - [Pacman package manager](./linux/pacman.md)
 
 ---
 
 ## Return to:
 
-- [My GitHub account home page](https://github.com/ktprezes)
+    - [My GitHub account home page](https://github.com/ktprezes)
