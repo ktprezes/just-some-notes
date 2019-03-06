@@ -24,4 +24,4 @@ Right now it's very modest but I hope it will grow :)
 
 ### Linux
 
-- [pacman package manager](./Linux/pacman.md)
+- [pacman package manager](./linux/pacman.md)
