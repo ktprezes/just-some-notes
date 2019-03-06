@@ -12,6 +12,8 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 - [Some other pacman related links](#otherlinks)
 - [Return to...](#returnto)
 
+[Top of this page](#pgtop)
+
 ---
 
 ## <a name="specificrepoupdate"></a>When you want to update packages installed in your system,<br>but only from specific repository (e.g. core).</a>
@@ -29,6 +31,8 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 - `$(..)` transforms this list of common rows <br>from 'new-line-separated' to 'space-separated' form
 - Finally `pacman -S --needed $(..)` takes this space-separated list of packages <br>from [core] repository installed in your system and updates them :)
 
+[Top of this page](#pgtop)
+
 ---
 
 ## <a name="nospaceleftmsg">When you want to install or upgrade some package(s)<br>and receive the _'there is no space left on device'_ message.</a>
@@ -43,9 +47,7 @@ With _yaourt_ you can set different _/tmp_ folder.
 - of course you should use _/your-temp-folder_ located on disk / device<br>
   with enough amount of free space left :)
 
----
-
-...
+[Top of this page](#pgtop)
 
 ---
 
@@ -59,6 +61,8 @@ With _yaourt_ you can set different _/tmp_ folder.
 - https://www.ostechnix.com/use-archlinuxs-pacman-package-manager-unix-like-oss/
 - https://wiki.manjaro.org/index.php?title=Pacman_Tips
 - https://devhints.io/pacman
+
+[Top of this page](#pgtop)
 
 ---
 
