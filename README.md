@@ -6,17 +6,19 @@ I've created this repository for myself - because of my weak memory - just to re
 But... when you find it useful... help yourself :)
 Right now it's very modest but I hope it will grow :)
 
-## Sections
+---
+
+## 1. Sections
 
 - [Cpp C++](#cpp-c++)
 - Git GitHub
-- Linux
+- [Linux](#linux)
 
-## Sections details
+## 2. Sections details
 
 ### [Cpp C++](#cpp-c++)
 
-- [some useful links](./Cpp C++/useful-links.md)
+- [some useful links](./cpp c++/useful-links.md)
 
 ### Git GitHub
 
