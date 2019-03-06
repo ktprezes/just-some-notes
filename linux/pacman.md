@@ -5,7 +5,7 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 
 ---
 
-## 00. Sections
+## Sections
 
 > - [01. Update packages from specific repository](#specificrepoupdate)
 > - [02. 'No space left on device' message](#nospaceleftmsg)
@@ -22,12 +22,12 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 
 > ### A bit of explanation - Newbie corner:
 
-> - `pacman -Qq` lists in short form (only names, without version info) all packages installed in your system - one package in a row
+> - `pacman -Qq` lists in short form (only names, without version info)<br>all packages installed in your system - one package in a row
 > - `pacman -Slq core` lists in short form all packages in [core] repository - one package in a row
 > - Two `| sort` commands sort theses lists
-> - `comm -12 <(..) <(..)` puts both sorted lists to comm's standard input; the comm command compares them and returns third one consisting only of their common rows
-> - `$(..)` transforms this list of common rows from 'new-line-separated' to 'space-separated' form
-> - Finally `pacman -S --needed $(..)` takes this space-separated list of packages from [core] repository installed in your system and updates them :)
+> - `comm -12 <(..) <(..)` puts both sorted lists to comm's standard input; <br>the comm command compares them and returns third one consisting only of their common rows
+> - `$(..)` transforms this list of common rows <br>from 'new-line-separated' to 'space-separated' form
+> - Finally `pacman -S --needed $(..)` takes this space-separated list of packages <br>from [core] repository installed in your system and updates them :)
 
 ---
 
@@ -38,7 +38,7 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 
 > - first of all you have to install it, e.g.: `pacman -S yaourt`
 > - when you want to install / upgrade some package(s), use:<br/> `yaourt -S package-name --tmp /your-temp-folder`
-> - of course you should use _/your-temp-folder_ located on disk / device with enough amount of free space left :)
+> - of course you should use _/your-temp-folder_ located <br>on disk / device with enough amount of free space left :)
 
 ---
 
