@@ -37,7 +37,7 @@ _some links explaining how tu use git/github and how to make it look awesome_
 - [6 Git hosting services to host open source repositories](https://opensource.com/article/18/8/github-alternatives)
 - [List of some hosted version control services (not only Git based)](https://www.slant.co/topics/153/~best-hosted-version-control-services)
 
-**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev][1] section [next >>][3]&emsp;&emsp;[Bottom of this page](#returnto)_**
+**_[Top of this page](#pgtop)&emsp;&emsp;[\<\< prev][1] section [next \>\>][3]&emsp;&emsp;[Bottom of this page](#returnto)_**
 
 ---
 
