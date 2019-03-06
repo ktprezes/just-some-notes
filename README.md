@@ -24,7 +24,7 @@ Right now it's very modest but I hope it will grow :)
 
 - ### <a name="git-github">Git GitHub</a>
 
-  - organisations with open source projects
+  - [some organisations GitHub sites](./Git%20GitHub/organisations.md)
 
 - ### <a name="linux">Linux</a>
 
