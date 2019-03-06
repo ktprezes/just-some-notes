@@ -14,9 +14,7 @@ _but this memo is rather about [default Arch Linux Package Manager](https://wiki
 
 ---
 
-## <a name="specificrepoupdate"></a>When you want to update packages installed in your system,<br/>
-
-but only from specific repository (e.g. core).</a>
+## <a name="specificrepoupdate"></a>When you want to update packages installed in your system,<br>but only from specific repository (e.g. core).</a>
 
 ```bash
     pacman -S --needed $(comm -12 <(pacman -Qq | sort) <(pacman -Slq core | sort))
@@ -33,9 +31,7 @@ but only from specific repository (e.g. core).</a>
 
 ---
 
-## <a name="nospaceleftmsg">When you want to install or upgrade some package(s)<br/>
-
-and receive the _'there is no space left on device'_ message.</a>
+## <a name="nospaceleftmsg">When you want to install or upgrade some package(s)<br>and receive the _'there is no space left on device'_ message.</a>
 
 Most probably you receive this message because of lack of space in _/tmp_ folder;<br>
 by default it's capacity equals half of your RAM.<br>
