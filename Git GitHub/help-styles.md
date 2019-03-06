@@ -8,8 +8,6 @@ _some links explaining how tu use git/github and how to make it look awesome_
 
 ---
 
----
-
 <a name ="1">
 
 ## Sections</a>
