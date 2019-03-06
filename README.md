@@ -1,13 +1,13 @@
 <a name="0"><a name="pgtop">
 
-# JUST SOME NOTES REPOSITORY</a></a>
+# "Just Some Notes" repository</a></a>
 
-_a few notes to remember_
+    _a few notes to remember_
 
-I've created this repository for myself - because of my weak memory
-<br>- just to remember some notes and tips&tricks.
-<br>But... when you find it useful... help yourself :)
-<br>Right now it's very modest but I hope it will grow :)
+    I've created this repository for myself - because of my weak memory
+    <br>- just to remember some notes and tips&tricks.
+    <br>But... when you find it useful... help yourself :)
+    <br>Right now it's very modest but I hope it will grow :)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
@@ -22,8 +22,6 @@ I've created this repository for myself - because of my weak memory
 - [Linux](#linux)
 - [Return to...](#returnto)
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
-
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
@@ -33,8 +31,6 @@ I've created this repository for myself - because of my weak memory
 ## Cpp C++</a></a>
 
 - [Some useful links](./Cpp%20C%2B%2B/useful-links.md#pgtop)
-
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
@@ -47,8 +43,6 @@ I've created this repository for myself - because of my weak memory
 - [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/help-styles.md#pgtop)
 - [Some organizations GitHub sites](./Git%20GitHub/organizations.md#pgtop)
 
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
-
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
@@ -58,8 +52,6 @@ I've created this repository for myself - because of my weak memory
 ## Linux</a></a>
 
 - [Pacman package manager](./linux/pacman.md#pgtop)
-
-[**_Top of this page_**](#pgtop)&emsp;&emsp;&emsp;[**_Bottom of this page_**](#returnto)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
