@@ -1,5 +1,9 @@
 # Some pacman notes
 
+_The best konwn **pacman** is legacy tv / console game,
+but this memo is about [default Arch Linux Package Manager](https://wiki.archlinux.org/index.php/pacman)
+_
+
 ---
 
 ## 01. When you want to update packages installed in your system,<br/>&emsp;&ensp;but only from specific repository (e.g. core).
