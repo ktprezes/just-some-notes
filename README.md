@@ -11,14 +11,14 @@ Right now it's very modest but I hope it will grow :)
 ## 1. Sections
 
 - [Cpp C++](#cpp-c++)
-- Git GitHub
+- Git GitHub(#git-github)
 - [Linux](#linux)
 
 ## 2. Sections details
 
-### [Cpp C++](#cpp-c++)
+### Cpp C++
 
-- [some useful links](./cpp c++/useful-links.md)
+- [some useful links ](./Cpp%20C%2B%2B/useful-links.md)
 
 ### Git GitHub
 
