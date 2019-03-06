@@ -47,3 +47,10 @@ IMHO the easiest way to deal with it is to use _yaourt_ instead of _pacman_ - wi
 > - https://www.ostechnix.com/use-archlinuxs-pacman-package-manager-unix-like-oss/
 > - https://wiki.manjaro.org/index.php?title=Pacman_Tips
 > - https://devhints.io/pacman
+
+---
+
+## Return to:
+
+- [Repository home page](../README.md)
+- [My GitHub account home page](https://github.com/ktprezes)

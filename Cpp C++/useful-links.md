@@ -35,3 +35,10 @@
 - [MSVS 2017 - Building C++ Programs](https://docs.microsoft.com/en-us/cpp/build/building-c-cpp-programs?view=vs-2017), [PDF 4662 pp.](https://opdhsblobprod01.blob.core.windows.net/contents/8ee155eb21834b65814ae67f4da97bf3/0810876b049d2421f96466c813ba19d6?sv=2015-04-05&sr=b&sig=0KY9KTK%2Fo%2BPP9d0TzZUMFg%2Fj1GrzBeMz72d5dcreTrk%3D&st=2019-03-06T14%3A32%3A20Z&se=2019-03-07T14%3A42%3A20Z&sp=r)
 - [MSVS 2017 - Porting and upgrading C++ code](https://docs.microsoft.com/en-us/cpp/porting/visual-cpp-porting-and-upgrading-guide?view=vs-2017), [PDF 184 pp.](https://opdhsblobprod01.blob.core.windows.net/contents/8ee155eb21834b65814ae67f4da97bf3/510618772e51413e9851faa33592a35b?sv=2015-04-05&sr=b&sig=wLsGmKiEhy%2B%2BsJLX3TG4vduYjVZml8iJLWnT0lH6i28%3D&st=2019-03-06T14%3A32%3A54Z&se=2019-03-07T14%3A42%3A54Z&sp=r)
 - [MSVS 2017 - C++ Help and Community](https://docs.microsoft.com/en-us/cpp/visual-cpp-help-and-community?view=vs-2017), [see PDF about 'Visual C++ in Visual Studio' 148 pp.](https://opdhsblobprod01.blob.core.windows.net/contents/8ee155eb21834b65814ae67f4da97bf3/3ca2d16817edfce024db32f9d8f39638?sv=2015-04-05&sr=b&sig=YYxM3xySbzRaPuSS3j8v4iK4slJbKR5QQm2dU4BG2bc%3D&st=2019-03-06T14%3A28%3A53Z&se=2019-03-07T14%3A38%3A53Z&sp=r)
+
+---
+
+## Return to:
+
+- [Repository home page](../README.md)
+- [My GitHub account home page](https://github.com/ktprezes)
