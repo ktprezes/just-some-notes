@@ -1,7 +1,7 @@
 # Some organisations GitHub sites
 
-_As far a I know, you cannot follow organisations sites - only people's sites,_
-_so I've made a short list of imho interestings ones..._
+_As far a I know, you cannot follow organisations sites - only people's sites,_<br>
+_so I've made a short list of imho interesting ones..._
 
 ---
 
