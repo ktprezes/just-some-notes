@@ -27,7 +27,7 @@
 
 ## Cpp C++</a></a>
 
-- [Some useful links](./Cpp%20C%2B%2B/useful-links.md#pgtop)
+- [Some useful links](./Cpp%20C%2B%2B/cpp-useful-links.md#pgtop)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
@@ -37,8 +37,8 @@
 
 ## Git GitHub</a></a>
 
-- [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/help-styles.md#pgtop)
-- [Some organizations GitHub sites](./Git%20GitHub/organizations.md#pgtop)
+- [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/github-help-and-styles.md#pgtop)
+- [Some organizations GitHub sites](./Git%20GitHub/github-organizations.md#pgtop)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
@@ -48,7 +48,7 @@
 
 ## Linux</a></a>
 
-- [Pacman package manager](./linux/pacman.md#pgtop)
+- [Pacman package manager](./linux/linux-pacman.md#pgtop)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
