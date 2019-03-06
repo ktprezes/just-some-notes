@@ -1,3 +1,7 @@
+article ul ul {
+list-style-type: square !important;
+}
+
 # just-some-notes
 
 _a few notes to remember_
