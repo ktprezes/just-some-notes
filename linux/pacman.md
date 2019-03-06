@@ -1,6 +1,6 @@
 # Some pacman notes
 
-_The best known **pacman** is legacy tv / console game,_
+_The best known **pacman** is legacy tv / console game,_<br>
 _but this memo is rather about [default Arch Linux Package Manager](https://wiki.archlinux.org/index.php/pacman)_
 
 ---
