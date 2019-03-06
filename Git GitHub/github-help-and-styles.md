@@ -55,7 +55,8 @@
 - [GitHub guides](https://guides.github.com/)
 - [GitHub YT video guides](https://www.youtube.com/githubguides)
 - [Git & GitHub learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
-- [GitHub markdown editor - writing and formatiing on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
+- [GitHub issues mastering](https://guides.github.com/features/issues/)
+- [GitHub markdown editor - writing and formating on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
@@ -66,19 +67,19 @@
 ## MarkDown (md) files help</a></a>
 
 - [Make a README.md](https://www.makeareadme.com/)
-- [Markdown guide - _I like it :)_](https://www.markdownguide.org/)
+- [Markdown guide - _I like it :smiley:_](https://www.markdownguide.org/)
 - [Another markdown guide](https://markdown-guide.readthedocs.io/en/latest/basics.html)
 - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [GitHub basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 - [GitHub mastering markdown](https://guides.github.com/features/mastering-markdown/)
 - [GitHub working with advanced formatting](https://help.github.com/en/articles/working-with-advanced-formatting)
-- [GitHub Flavored Markdown Spec - _I like it :)_](https://github.github.com/gfm/)
+- [GitHub Flavored Markdown Spec - _I like it :smiley:_](https://github.github.com/gfm/)
 - [BitBucket markdown syntax guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [MS markdown basics](https://docs.microsoft.com/pl-pl/contribute/how-to-write-use-markdown)
 - [MS markdown reference](https://docs.microsoft.com/pl-pl/contribute/markdown-reference)
 - [Markdown style guide](http://www.cirosantilli.com/markdown-style-guide/)
-- [GitHub emoji icons list](https://gist.github.com/rxaviers/7360908)
+- [GitHub emoji icons list - _I like it :smiley:_](https://gist.github.com/rxaviers/7360908)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 

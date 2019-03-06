@@ -37,7 +37,7 @@
 
 ## Git GitHub</a></a>
 
-- [Git & GitHub help files; style, stylesheets and layouts links](./Git%20GitHub/github-help-and-styles.md#pgtop)
+- [Git & GitHub & Markdown (md) file format help files; style, stylesheets and layouts links](./Git%20GitHub/github-help-and-styles.md#pgtop)
 - [Some organizations GitHub sites](./Git%20GitHub/github-organizations.md#pgtop)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
