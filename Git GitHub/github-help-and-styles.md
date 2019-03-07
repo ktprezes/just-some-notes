@@ -14,8 +14,10 @@
 
 - [Git general help](#gitgenhlp)
 - [GitHub general help](#githubgenhlp)
+- [GitHub Gists](#githubgists)
 - [Markdown (md) files help](#mdhlp)
 - [Some style and beauty links](#stls)
+- [Other GitHub-like sites](#othersites)
 - [Return to...](#returnto)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
@@ -35,13 +37,8 @@
 - [What is Git - by Quora](https://www.quora.com/What-is-Git-and-why-should-I-use-it)
 - [What is Git - by Backlog](https://backlog.com/git-tutorial/what-is-git/)
 - [What is Git - by Microsoft (MS)](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)
+- [Git handbook by GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git cheat sheets](https://services.github.com/on-demand/resources/cheatsheets/)
-- [List of some Git hosting services](https://git.wiki.kernel.org/index.php/GitHosting)
-- [Git hosting providers by Quora](https://www.quora.com/What-is-the-best-Git-hosting-provider-other-than-GitHub-Why)
-- [Free and paid Git hosting comparison](http://comparegithosting.com/)
-- [12 Git hosting services comparison by git-tower](https://www.git-tower.com/blog/git-hosting-services-compared/)
-- [6 Git hosting services to host open source repositories](https://opensource.com/article/18/8/github-alternatives)
-- [List of some hosted version control services (not only Git based)](https://www.slant.co/topics/153/~best-hosted-version-control-services)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[\<\< prev](#1) section [next \>\>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
@@ -55,14 +52,32 @@
 - [GitHub guides](https://guides.github.com/)
 - [GitHub YT video guides](https://www.youtube.com/githubguides)
 - [Git & GitHub learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
+- [GitHub flow understanding](https://guides.github.com/introduction/flow/)
+- [GitHub forking projects](https://guides.github.com/activities/forking/)
 - [GitHub issues mastering](https://guides.github.com/features/issues/)
+- [GitHub pages getting started](https://guides.github.com/features/pages/)
+- [GitHub exercise - like GitHub "Hello World"](https://guides.github.com/activities/hello-world/)
 - [GitHub markdown editor - writing and formating on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name ="4"><a name="mdhlp">
+<a name ="4"><a name="githubgists">
+
+## GitHub Gists</a></a>
+
+- [Gists creation page](https://gist.github.com/)
+- [What is Gist - by Wiki EN](https://en.wikipedia.org/wiki/GitHub#Gists)
+- [What is Gist - by GitHub help](https://help.github.com/en/articles/about-gists)
+- [What is Gist - by Quora](https://www.quora.com/What-is-a-GitHub-gist)
+- [Gist vs GitHub repository - by stackoverflow](https://stackoverflow.com/questions/6767518/what-is-the-difference-between-github-and-gist)
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
+---
+
+<a name ="5"><a name="mdhlp">
 
 ## MarkDown (md) files help</a></a>
 
@@ -81,22 +96,40 @@
 - [Markdown style guide](http://www.cirosantilli.com/markdown-style-guide/)
 - [GitHub emoji icons list - _I like it :smiley:_](https://gist.github.com/rxaviers/7360908)
 
-<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#4) section [next >>](#6)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name ="5"><a name="stls">
+<a name ="6"><a name="stls">
 
 ## Styles, stylish themes etc</a></a>
 
 - [Stylus - _user styles manager for Chrome, FF, Opera, ..._](https://github.com/openstyles/stylus/)
 - [GitHub site with stylish themes - _eg. dark themes for github, stack exchange / stack overflow, YT, etc._](https://github.com/StylishThemes)
 
-<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#4) section [next >>](#6)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section [next >>](#7)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name ="6"><a name="returnto">
+<a name ="7"><a name="othersites">
+
+## Other GitHub-like and more or less similar sites</a></a>
+
+- [Bitbucket](https://bitbucket.org/)
+- [Pastebin](https://pastebin.com/)
+
+- [List of some Git hosting services](https://git.wiki.kernel.org/index.php/GitHosting)
+- [Git hosting providers by Quora](https://www.quora.com/What-is-the-best-Git-hosting-provider-other-than-GitHub-Why)
+- [Free and paid Git hosting comparison](http://comparegithosting.com/)
+- [12 Git hosting services comparison by git-tower](https://www.git-tower.com/blog/git-hosting-services-compared/)
+- [6 Git hosting services to host open source repositories](https://opensource.com/article/18/8/github-alternatives)
+- [List of some hosted version control services (not only Git based)](https://www.slant.co/topics/153/~best-hosted-version-control-services)
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#6) section [next >>](#8)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
+---
+
+<a name ="8"><a name="returnto">
 
 ## Return to</a></a>
 
@@ -104,6 +137,6 @@
 - [Repository home page](../README.md#pgtop)
 - [My GitHub account home page](https://github.com/ktprezes)
 
-<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#7) section next >>&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
