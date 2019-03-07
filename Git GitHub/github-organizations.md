@@ -33,6 +33,7 @@
 - [NSA - US National Security Agency, eg. ghidra disassembler for software analysis](https://github.com/NationalSecurityAgency)
 - [OSGeo - Open Source Geospatial Foundation](https://github.com/OSGeo)
 - [SAP](https://github.com/SAP)
+- [SWI Prolog](https://github.com/SWI-Prolog)
 - [Twitter: _algebird, anomaly detection with R, emoji, twitter.github.io, twitter-text, etc._](https://github.com/twitter)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
