@@ -115,9 +115,41 @@
 
 ## Other GitHub-like and more or less similar sites</a></a>
 
-- [Bitbucket](https://bitbucket.org/)
-- [Pastebin](https://pastebin.com/)
+### Individual sites
 
+- [Assembla](https://www.assembla.com/home)
+- [AWS Amazaon Code Commit](https://aws.amazon.com/codecommit/)
+- [BeansTalk](https://beanstalkapp.com/)
+- [Bitbucket](https://bitbucket.org/)
+- [Buddy](https://buddy.works/)
+- [Chisel](http://chiselapp.com/)
+- [CloudForge](http://www.cloudforge.com/)
+- [CodeBase](https://www.codebasehq.com/)
+- [CodePen.io - for frontend projects](https://codepen.io/)
+- [Eclipse jGit](https://www.eclipse.org/jgit/)
+- [FogBugz / Kiln](https://www.fogbugz.com/version-control.html)
+- [GitBip](http://gitbip.com/)
+- [GitBlit](http://gitblit.com/)
+- [GitLab](https://gitlab.com/gitlab-org)
+- [GitLab CI](https://about.gitlab.com/product/continuous-integration/)
+- [Google Cloud Source Repository](https://cloud.google.com/source-repositories/)
+- [Launchpad](https://launchpad.net/)
+- [Libraries.io - rather search site of open source packages / frameworks / tools etc.](https://libraries.io/)
+- [MS Azure DevOps (formerly Visual Studio Online)](https://azure.microsoft.com/en-us/services/devops/)
+- [Pastebin](https://pastebin.com/)
+- [Perforce](https://www.perforce.com/)
+- [Phacility](https://phacility.com/phabricator/)
+- [Plan.io](https://plan.io/)
+- [ProjectLocker](https://projectlocker.com/)
+- [Repo.or.cz](https://repo.or.cz/)
+- [RhodeCode](https://rhodecode.com/)
+- [RocketGit](https://rocketgit.com/)
+- [SouceForge](https://sourceforge.net/)
+- [Tech.io - knowledge sharing platform](https://tech.io/)
+
+### Some lists and comparisons
+
+- [Source code hosting sites comparison by Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
 - [List of some Git hosting services](https://git.wiki.kernel.org/index.php/GitHosting)
 - [Git hosting providers by Quora](https://www.quora.com/What-is-the-best-Git-hosting-provider-other-than-GitHub-Why)
 - [Free and paid Git hosting comparison](http://comparegithosting.com/)
