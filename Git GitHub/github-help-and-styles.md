@@ -50,6 +50,7 @@
 
 - [GitHub help](https://help.github.com/en)
 - [GitHub guides](https://guides.github.com/)
+- [GitHub Keyboard Shortcuts](https://help.github.com/en/articles/using-keyboard-shortcuts)
 - [GitHub YT video guides](https://www.youtube.com/githubguides)
 - [Git & GitHub learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
 - [GitHub flow understanding](https://guides.github.com/introduction/flow/)
