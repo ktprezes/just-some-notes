@@ -27,6 +27,8 @@
 - [All Algorithms](https://github.com/AllAlgorithms)
 - [The Algorithms](https://github.com/TheAlgorithms)
 - [Facebook (FB): _flux, graphql, react, etc._](https://github.com/facebook)
+- [FontAwesome site](https://fontawesome.com/)
+- [FortAwesome - eg. fontawesome repo](https://github.com/FortAwesome)
 - [IBM](https://github.com/IBM/)
 - [JetBrains: _Intellij, JetBrains, Kotlin, PyCharm, etc._](https://github.com/JetBrains)
 - [Microsoft (MS): _dotnet, TypeSript, VSCode, etc._](https://github.com/Microsoft)
