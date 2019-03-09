@@ -29,7 +29,7 @@
 ## Git general help</a></a>
 
 - [Git home page](https://git-scm.com/)
-- [Git official documentation](https://git-scm.com/doc)
+- [Git reference and "Pro Git" book](https://git-scm.com/doc)
 - [What is Git - by Wiki PL](<https://pl.wikipedia.org/wiki/Git_(oprogramowanie)>)
 - [What is Git - by Wiki EN](https://en.wikipedia.org/wiki/Git)
 - [What is Git - by Atlassian](https://www.atlassian.com/git/tutorials/what-is-git)
