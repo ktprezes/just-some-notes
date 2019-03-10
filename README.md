@@ -48,7 +48,7 @@
 
 ## Linux</a></a>
 
-- [Pacman package manager](./linux/linux-pacman.md#pgtop)
+- [Pacman package manager](./Linux/linux-pacman.md#pgtop)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
