@@ -1,14 +1,14 @@
-<a name ="0"> <a name="pgtop">
+ <a name="pgtop">
 
-# Git & GitHub help and beauty sites</a></a>
+# Git & GitHub help and beauty sites</a>
 
 > _some links explaining how tu use git/github and how to make it look awesome_
 
-<sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#0)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name="1"><a name="sections">
+<a name="0"><a name="sections">
 
 ## Sections</a></a>
 
@@ -17,14 +17,15 @@
 - [GitHub Gists](#githubgists)
 - [Markdown (md) files help](#mdhlp)
 - [Some style and beauty links](#stls)
+- [GitHub api for developers](#devapi)
 - [Other GitHub-like sites](#othersites)
 - [Return to...](#returnto)
 
-<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#pgtop) section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name ="2"><a name="gitgenhlp">
+<a name ="1"><a name="gitgenhlp">
 
 ## Git general help</a></a>
 
@@ -40,11 +41,11 @@
 - [Git handbook by GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git cheat sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 
-<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[\<\< prev](#1) section [next \>\>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[\<\< prev](#0) section [next >>](#2)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name ="3"><a name="githubgenhlp">
+<a name ="2"><a name="githubgenhlp">
 
 ## GitHub general help</a></a>
 
@@ -59,14 +60,12 @@
 - [GitHub pages getting started](https://guides.github.com/features/pages/)
 - [GitHub exercise - like GitHub "Hello World"](https://guides.github.com/activities/hello-world/)
 - [GitHub markdown editor - writing and formating on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
-- [GitHub general info about apps](https://developer.github.com/apps/)
-- [GitHub building apps](https://developer.github.com/apps/building-github-apps/creating-a-github-app/)
 
-<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name ="4"><a name="githubgists">
+<a name ="3"><a name="githubgists">
 
 ## GitHub Gists</a></a>
 
@@ -76,11 +75,11 @@
 - [What is Gist - by Quora](https://www.quora.com/What-is-a-GitHub-gist)
 - [Gist vs GitHub repository - by stackoverflow](https://stackoverflow.com/questions/6767518/what-is-the-difference-between-github-and-gist)
 
-<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#2) section [next >>](#4)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name ="5"><a name="mdhlp">
+<a name ="4"><a name="mdhlp">
 
 ## MarkDown (md) files help</a></a>
 
@@ -99,16 +98,39 @@
 - [Markdown style guide](http://www.cirosantilli.com/markdown-style-guide/)
 - [GitHub emoji icons list - _I like it :smiley:_](https://gist.github.com/rxaviers/7360908)
 
-<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#4) section [next >>](#6)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#3) section [next >>](#5)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
 ---
 
-<a name ="6"><a name="stls">
+<a name ="5"><a name="stls">
 
 ## Styles, stylish themes etc</a></a>
 
 - [Stylus - _user styles manager for Chrome, FF, Opera, ..._](https://github.com/openstyles/stylus/)
 - [GitHub site with stylish themes - _eg. dark themes for github, stack exchange / stack overflow, YT, etc._](https://github.com/StylishThemes)
+
+<sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#4) section [next >>](#6)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
+
+---
+
+<a name ="6"><a name="devapi">
+
+## GitHub api for developers</a></a>
+
+- [GitHub api - _function list & links_](https://api.github.com/)
+- [GitHub for developers - _general docs_](https://developer.github.com/)
+  - [GitHub api ver.3 - Rest](https://developer.github.com/v3/)
+  - [GitHub api ver.4 - GraphQL](https://developer.github.com/v4/)
+- [GitHub apps - _general info_](https://developer.github.com/apps/)
+  - [GitHub apps vs OAuth apps](https://developer.github.com/apps/differences-between-apps/)
+  - [GitHub apps - _building - quickstart_](https://developer.github.com/apps/quickstart-guides/)
+  - [GitHub apps - _setting up development environment_](https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/)
+  - [GitHub apps - _building the first one_](https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/)
+  - [GitHub apps - _building - more details_](https://developer.github.com/apps/building-github-apps/creating-a-github-app/)
+- [GitHub actions](https://developer.github.com/actions/)
+- [GitHub marketplace](https://developer.github.com/marketplace/)
+- [GitHub webhooks - _subscribe to certain events_](https://developer.github.com/webhooks/)
+- [GitHub status](https://www.githubstatus.com/)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section [next >>](#7)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
