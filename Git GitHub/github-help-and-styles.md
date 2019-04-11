@@ -131,6 +131,8 @@
 - [GitHub marketplace](https://developer.github.com/marketplace/)
 - [GitHub webhooks - _subscribe to certain events_](https://developer.github.com/webhooks/)
 - [GitHub status](https://www.githubstatus.com/)
+- []
+- [RepoRemover - _delete many repos at once_](https://reporemover.xyz/)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#5) section [next >>](#7)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 

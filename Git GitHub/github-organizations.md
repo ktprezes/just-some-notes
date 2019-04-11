@@ -21,9 +21,12 @@
 
 <a name="2"><a name="someorgalphord">
 
-## Some organizations on GitHub in alphabetical order</a></a>
+## Some 'organizations' on GitHub in alphabetical order</a></a>
 
+<details>
+<summary>View list</summary>
 - []()
+- [30 seconds _(of code, css, interviews, react)_](https://github.com/30-seconds)
 - [Adobe: _adobe.github.com, brackets, developer.adobe.com repo, helix, etc._](https://github.com/adobe/)
 - [Algorithm Visualizer](https://github.com/algorithm-visualizer)
 - [All Algorithms](https://github.com/AllAlgorithms)
@@ -39,6 +42,7 @@
 - [Google - _open source projects - strona www_](https://opensource.google.com/)
 - [Google suite](https://github.com/gsuitedevs)
 - [GraphQL](https://github.com/graphql)
+- [Home-assistant - _open source home automation_](https://github.com/home-assistant)
 - [IBM](https://github.com/IBM/)
 - [IPFS - _A peer-to-peer hypermedia protocol_](https://github.com/ipfs)
 - [JetBrains: _Intellij, JetBrains, Kotlin, PyCharm, etc._](https://github.com/JetBrains)
@@ -50,6 +54,7 @@
 - [Open Knowledge International](https://github.com/okfn)
 - [OSGeo - Open Source Geospatial Foundation](https://github.com/OSGeo)
 - [Practical.li - _open books on soft.dev._](https://github.com/practicalli)
+- [Python](https://github.com/python)
 - [R Lib - R Infrastructure](https://github.com/r-lib)
 - [R Studio](https://github.com/rstudio)
 - [RealPython](https://github.com/realpython)
@@ -63,6 +68,7 @@
 - [Trend Micro Frontend - _many react templates and components_](https://github.com/trendmicro-frontend)
 - [Twitter: _algebird, anomaly detection with R, emoji, twitter.github.io, twitter-text, etc._](https://github.com/twitter)
 - [WhatWG - _web standards - dom, encoding, html5, url, etc_](https://github.com/whatwg)
+</details>
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
