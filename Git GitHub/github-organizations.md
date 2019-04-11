@@ -23,8 +23,6 @@
 
 ## Some 'organizations' on GitHub in alphabetical order</a></a>
 
-<details>
-<summary>View list</summary>
 - []()
 - [30 seconds _(of code, css, interviews, react)_](https://github.com/30-seconds)
 - [Adobe: _adobe.github.com, brackets, developer.adobe.com repo, helix, etc._](https://github.com/adobe/)
@@ -51,6 +49,7 @@
 - [Magit - _Git inside Emacs_](https://github.com/magit)
 - [Microsoft (MS): _dotnet, TypeSript, VSCode, etc._](https://github.com/Microsoft)
 - [Mozilla Services](https://github.com/mozilla-services)
+- [MyPaint - _great painting program MyPaint_](https://github.com/mypaint)
 - [NSA - US National Security Agency, eg. ghidra disassembler for software analysis](https://github.com/NationalSecurityAgency)
 - [Open Knowledge International](https://github.com/okfn)
 - [OSGeo - Open Source Geospatial Foundation](https://github.com/OSGeo)
@@ -69,7 +68,6 @@
 - [Trend Micro Frontend - _many react templates and components_](https://github.com/trendmicro-frontend)
 - [Twitter: _algebird, anomaly detection with R, emoji, twitter.github.io, twitter-text, etc._](https://github.com/twitter)
 - [WhatWG - _web standards - dom, encoding, html5, url, etc_](https://github.com/whatwg)
-</details>
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
