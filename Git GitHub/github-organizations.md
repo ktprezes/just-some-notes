@@ -28,6 +28,7 @@
 - [Algorithm Visualizer](https://github.com/algorithm-visualizer)
 - [All Algorithms](https://github.com/AllAlgorithms)
 - [The Algorithms](https://github.com/TheAlgorithms)
+- [Amadev - _kody gier pokazywanych na kanale YT: https://www.youtube.com/channel/UCCJrX72dtaiFq1Dh3tjfE2g_](https://github.com/amadevBox)
 - [ASC - Altkom Software & Cnsulting](https://github.com/asc-lab)
 - [Docker](https://github.com/docker)
 - [EmacsMirror](https://github.com/emacsmirror)
