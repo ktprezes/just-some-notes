@@ -63,6 +63,7 @@
 - [SAP](https://github.com/SAP)
 - [SBCL - _Steel Bank Common Lisp_](https://github.com/sbcl)
 - [SharpLispers - _people who mantain abandoned Common Lisp packages_](https://github.com/sharplispers)
+- [Shields.io - _badges for your *.md files_](https://github.com/badges)
 - [SWI Prolog](https://github.com/SWI-Prolog)
 - [Swirl (R package) Development team](https://github.com/swirldev)
 - [Tidyverse - _collection of R packages designed to work together seamlessly_](https://github.com/tidyverse)
