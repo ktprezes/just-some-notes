@@ -53,6 +53,7 @@
 - [NSA - US National Security Agency, eg. ghidra disassembler for software analysis](https://github.com/NationalSecurityAgency)
 - [Open Knowledge International](https://github.com/okfn)
 - [OSGeo - Open Source Geospatial Foundation](https://github.com/OSGeo)
+- [Packt Publishing - book's source code etc.](https://github.com/PacktPublishing)
 - [Practical.li - _open books on soft.dev._](https://github.com/practicalli)
 - [Python](https://github.com/python)
 - [R Lib - R Infrastructure](https://github.com/r-lib)
