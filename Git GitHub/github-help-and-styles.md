@@ -61,6 +61,7 @@
 - [GitHub exercise - like GitHub "Hello World"](https://guides.github.com/activities/hello-world/)
 - [GitHub markdown editor - writing and formating on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
 - [GitHub topics](https://github.com/topics/)
+- [GitHub Awesome lists](https://github.com/topics/awesome)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
