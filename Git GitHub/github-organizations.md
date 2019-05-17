@@ -1,8 +1,8 @@
 <a name="0"><a name="pgtop">
 
-# Some organization's GitHub sites</a></a>
+# Some "organization's" GitHub sites</a></a>
 
-> _As far a I know, you cannot follow organization's sites - only people's sites, <br> so I've made a short list of imho interesting ones..._
+> _As far a I know, you cannot follow "organization's" sites - only people's sites, <br> so I've made a short list of imho interesting ones..._
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;<< prev section [next >>](#1)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
 
@@ -30,9 +30,10 @@
 - [All Algorithms](https://github.com/AllAlgorithms)
 - [The Algorithms](https://github.com/TheAlgorithms)
 - [Amadev - _kody źródłowe_](https://github.com/amadevBox) _gier pokazywanych na kanale YT:_ [Amadev](https://www.youtube.com/channel/UCCJrX72dtaiFq1Dh3tjfE2g)
-- [ASC - Altkom Software & Cnsulting](https://github.com/asc-lab)
+- [ASC - _Altkom Software & Cnsulting_](https://github.com/asc-lab)
 - [Docker](https://github.com/docker)
 - [EmacsMirror](https://github.com/emacsmirror)
+- [Engineer Man - _site of this YT channel_](https://github.com/engineer-man)
 - [Exercism - _various languages coding exercises_](https://github.com/exercism)
 - [Facebook (FB): _flux, graphql, react, etc._](https://github.com/facebook)
 - [FontAwesome site](https://fontawesome.com/)
