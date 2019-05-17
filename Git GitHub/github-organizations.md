@@ -33,7 +33,7 @@
 - [ASC - _Altkom Software & Cnsulting_](https://github.com/asc-lab)
 - [Docker](https://github.com/docker)
 - [EmacsMirror](https://github.com/emacsmirror)
-- [Engineer Man - _site of this YT channel_](https://github.com/engineer-man)
+- [Engineer Man - _GitHub site_](https://github.com/engineer-man) _of [this YT channel](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ/)_
 - [Exercism - _various languages coding exercises_](https://github.com/exercism)
 - [Facebook (FB): _flux, graphql, react, etc._](https://github.com/facebook)
 - [FontAwesome site](https://fontawesome.com/)
