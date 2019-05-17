@@ -56,6 +56,7 @@
 - [OSGeo - Open Source Geospatial Foundation](https://github.com/OSGeo)
 - [Packt Publishing - book's source code etc.](https://github.com/PacktPublishing)
 - [Practical.li - _open books on soft.dev._](https://github.com/practicalli)
+- [PyPa - _python packaging authority_](https://github.com/pypa)
 - [Python](https://github.com/python)
 - [R Lib - R Infrastructure](https://github.com/r-lib)
 - [R Studio](https://github.com/rstudio)
