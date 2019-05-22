@@ -60,7 +60,7 @@
 - [GitHub pages getting started](https://guides.github.com/features/pages/)
 - [GitHub exercise - like GitHub "Hello World"](https://guides.github.com/activities/hello-world/)
 - [GitHub markdown editor - writing and formating on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
-- [GitHub collections](https://github.com/collections)
+- [GitHub collections](https://github.com/collections) eg:
   - [GitHub browser extensions](https://github.com/collections/github-browser-extensions)
   - [GitHub pages examples](https://github.com/collections/github-pages-examples)
   - [GitHub power projects](https://github.com/collections/projects-that-power-github)
@@ -69,7 +69,19 @@
   - [Pixel art tools](https://github.com/collections/pixel-art-tools)
   - [Programming languages](https://github.com/collections/programming-languages)
   - [Text editors](https://github.com/collections/text-editors)
-- [GitHub topics](https://github.com/topics/)
+- [GitHub topics](https://github.com/topics/) eg:
+  - [Data structures](https://github.com/topics/data-structures)
+  - [Data visualisation](https://github.com/topics/data-visualization)
+  - [Emacs](https://github.com/topics/emacs)
+  - [GraphQL](https://github.com/topics/graphql)
+  - [Icon font](https://github.com/topics/icon-font)
+  - [Jupyter Notebooks - various topics](https://github.com/topics/jupyter-notebook)
+  - [Language parsing occording to Grammar](https://github.com/topics/parsing)
+  - [NLP - natural language proffessing](https://github.com/topics/nlp)
+  - [OpenGL](https://github.com/topics/opengl)
+  - [Python - more then 100k repos](https://github.com/topics/python)
+  - [TensorFlow](https://github.com/topics/tensorflow)
+  - [TypeScript resources](https://github.com/topics/typescript)
 - [GitHub Awesome lists](https://github.com/topics/awesome)
 
 <sub>**_[Top of this page](#pgtop)&emsp;&emsp;[<< prev](#1) section [next >>](#3)&emsp;&emsp;[Bottom of this page](#returnto)_**</sub>
