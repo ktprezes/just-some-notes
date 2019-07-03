@@ -52,6 +52,7 @@
 - [Mozilla Services](https://github.com/mozilla-services)
 - [MyPaint - _great painting program MyPaint_](https://github.com/mypaint)
 - [NSA - US National Security Agency, eg. ghidra disassembler for software analysis](https://github.com/NationalSecurityAgency)
+- [NumCL - _NumPy for Common Lisp_](https://github.com/numcl)
 - [Open Knowledge International](https://github.com/okfn)
 - [OSGeo - Open Source Geospatial Foundation](https://github.com/OSGeo)
 - [Packt Publishing - book's source code etc.](https://github.com/PacktPublishing)
