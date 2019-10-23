@@ -38,6 +38,7 @@
 - [What is Git - by Quora](https://www.quora.com/What-is-Git-and-why-should-I-use-it)
 - [What is Git - by Backlog](https://backlog.com/git-tutorial/what-is-git/)
 - [What is Git - by Microsoft (MS)](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)
+- [What is Git - by Gregg Pollack - video on pluralsight.com](https://app.pluralsight.com/course-player?course=code-school-git-real&author=gregg-pollack)
 - [Git handbook by GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git cheat sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 
