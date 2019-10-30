@@ -47,6 +47,7 @@
 - [IPFS - _A peer-to-peer hypermedia protocol_](https://github.com/ipfs)
 - [JetBrains: _Intellij, JetBrains, Kotlin, PyCharm, etc._](https://github.com/JetBrains)
 - [Julia Language - _for numerical computing_](https://github.com/JuliaLang)
+- [KasperskyLab - _computer security company_](https://github.com/KasperskyLab)
 - [Magit - _Git inside Emacs_](https://github.com/magit)
 - [Microsoft (MS): _dotnet, TypeSript, VSCode, etc._](https://github.com/Microsoft)
 - [Mozilla Services](https://github.com/mozilla-services)
