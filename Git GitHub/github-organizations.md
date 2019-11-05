@@ -48,6 +48,8 @@
 - [JetBrains: _Intellij, JetBrains, Kotlin, PyCharm, etc._](https://github.com/JetBrains)
 - [Julia Language - _for numerical computing_](https://github.com/JuliaLang)
 - [KasperskyLab - _computer security company_](https://github.com/KasperskyLab)
+- [LogTalk - _declarative object-oriented logic (aka object-oriented prolog)_](https://github.com/LogtalkDotOrg)
+- [LogTalk actions - _part of LogTalk (object oriented prolog) project_](https://github.com/logtalk-actions)
 - [Magit - _Git inside Emacs_](https://github.com/magit)
 - [Microsoft (MS): _dotnet, TypeSript, VSCode, etc._](https://github.com/Microsoft)
 - [Mozilla Services](https://github.com/mozilla-services)
