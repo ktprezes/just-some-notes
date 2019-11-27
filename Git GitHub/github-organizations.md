@@ -71,6 +71,7 @@
 - [SBCL - _Steel Bank Common Lisp_](https://github.com/sbcl)
 - [SharpLispers - _people who mantain abandoned Common Lisp packages_](https://github.com/sharplispers)
 - [Shields.io - _badges for your *.md files_](https://github.com/badges)
+- [SpringFox - _automated JSON API documentation for API's built with Spring_](https://github.com/springfox)
 - [Swagger](https://github.com/swagger-api)
 - [SWI Prolog](https://github.com/SWI-Prolog)
 - [Swirl (R package) Development team](https://github.com/swirldev)
