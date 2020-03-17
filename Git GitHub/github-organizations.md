@@ -33,6 +33,7 @@
 - [Arch Lisp](https://github.com/archlisp)
 - [ASC - _Altkom Software & Cnsulting_](https://github.com/asc-lab)
 - [Docker](https://github.com/docker)
+- [Electron - _css for desktop apps_](https://github.com/electron)
 - [EmacsMirror](https://github.com/emacsmirror)
 - [Engineer Man - _GitHub site_](https://github.com/engineer-man) _of [this YT channel](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ/)_
 - [Exercism - _various languages coding exercises_](https://github.com/exercism)
