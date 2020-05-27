@@ -45,6 +45,7 @@
 - [Google suite](https://github.com/gsuitedevs)
 - [GraphQL](https://github.com/graphql)
 - [Home-assistant - _open source home automation_](https://github.com/home-assistant)
+- [Hyperskill - _e.g.JetBrains Academy_](https://github.com/hyperskill)
 - [IBM](https://github.com/IBM/)
 - [IPFS - _A peer-to-peer hypermedia protocol_](https://github.com/ipfs)
 - [JetBrains: _Intellij, JetBrains, Kotlin, PyCharm, etc._](https://github.com/JetBrains)
