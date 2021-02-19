@@ -54,6 +54,7 @@
 - [LogTalk - _declarative object-oriented logic (aka object-oriented prolog)_](https://github.com/LogtalkDotOrg)
 - [LogTalk actions - _part of LogTalk (object oriented prolog) project_](https://github.com/logtalk-actions)
 - [Magit - _Git inside Emacs_](https://github.com/magit)
+- [MatPlotLib - Python Graph Plotting Library](https://github.com/matplotlib)
 - [Microsoft (MS): _dotnet, TypeSript, VSCode, etc._](https://github.com/Microsoft)
 - [Mozilla Services](https://github.com/mozilla-services)
 - [MyPaint - _great painting program MyPaint_](https://github.com/mypaint)
